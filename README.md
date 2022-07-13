@@ -1,2 +1,2 @@
-# Interger Overflow
+# Integer Overflow
 oop sorry java can't take that number
